@@ -44,4 +44,8 @@ O código está organizado da seguinte forma:
 2.  Compile o arquivo via terminal: `javac SocialMediaIntegration.java`
 3.  Execute o programa: `java SocialMediaIntegration`
 
+
 A saída no console demonstrará o fluxo de publicação em cada plataforma, incluindo uma falha controlada no Instagram (ao tentar postar sem imagem) e a verificação do cache da factory.
+
+
+<img width="1436" height="412" alt="image" src="https://github.com/user-attachments/assets/523af3ec-bdb2-477a-9d28-086cd61b7af5" />
